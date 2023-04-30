@@ -23,7 +23,7 @@ export default{
     },
     methods:{
         async callApi(){
-            const res = await fetch('http://localhost:5959/api');
+            const res = await fetch('https://rhythmr-backend.onrender.com/api');
             const data = res.json();
             console.log(data);
             return data;
