@@ -1,16 +1,16 @@
 [{
 "id":1,
 "name":"Acoustic Guitar",
-"category":"music",
-"imageUrl":"https://guitariano.com/wp-content/uploads/2019/12/acoustic-guitar-parts-2.jpg",
-"price":800
+"category":"Strings",
+"imageUrl":"https://images.reverb.com/image/upload/s--6baLq48U--/f_auto,t_supersize/v1682691822/ore4piyxtgfwsi1bajef.jpg",
+"price":1800
 },
 
 {
 "id":2,
 "name":"Acoustic Electric Guitar",
-"category":"music",
-"imageUrl":"https://www.thesoundjunky.com/wp-content/uploads/2017/11/acoustic-electric-guitar-anatomy.jpg",
+"category":"Strings",
+"imageUrl":"https://media.guitarcenter.com/is/image/MMGS7/J02826000001000-00-720x720.jpg",
 "price":1200
 
 },
@@ -18,16 +18,16 @@
 {
 "id":3,
 "name":"Electric Guitar",
-"category":"music",
-"imageUrl":"https://www.guitarriver.com/wp-content/uploads/2022/03/electric-guitar-anatomy-1024x615.jpg",
+"category":"Strings",
+"imageUrl":"https://cdn.shopify.com/s/files/1/0255/8659/7968/products/JH-323_cb50d4a4-0a54-4194-8e5c-463ecdd08cdd.jpg?v=1594259861",
 "price":1950
 },
 
 {
 "id":4,
 "name":"Grand Piano",
-"category":"music",
-"imageUrl":"https://hellomusictheory.com/wp-content/uploads/2021/02/parts-of-the-piano-1024x683.png.webp",
+"category":"Keys",
+"imageUrl":"https://www.musiccitypianos.com/information/ewExternalFiles/YUS5_PE%20T.png",
 "price":2300
 
 },
@@ -35,7 +35,7 @@
 {
 "id":5,
 "name":"Pearl Drum Set",
-"category":"music",
+"category":"Percussion",
 "brand":"Pearl",
 "model":"RS525SC",
 "imageUrl":"https://media.istockphoto.com/id/146967607/photo/close-up-of-red-drum-set-on-white-background.jpg?s=612x612&w=0&k=20&c=8n3zb9dUq2Jn5Fd3WT8AOvBG94ZiISDdXy5YLssxu30=",
@@ -46,7 +46,7 @@
 {
 "id":6,
 "name":"Pearl Cajon",
-"category":"music",
+"category":"Percussion",
 "brand":"Pearl",
 "model":"CJ25SC",
 "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrx_zvyKtvK2zYWezOVu7y5iV7LAE8C70oQ&usqp=CAU",
@@ -56,11 +56,11 @@
 
 {
 "id":7,
-"name":"Martin Acoustic-Electric Bass Guitar",
-"category":"music",
+"name":"Martin Acoustic-Electric  Guitar",
+"category":"Strings",
 "brand":"Martin",
 "model":"BC-16E",
-"imageUrl":"https://cf1.zzounds.com/media/productmedia/fit,600by800/quality,85/1_Full_Straight_Front_NA-9e5f12120087b7a0160f3229bb1c6211.jpg",
+"imageUrl":"https://cf1.zzounds.com/media/productmedia/fit,600by800/quality,85/1_Full_Straight_Front_NA-5a3a32b10f571223e666782af7027662.jpg",
 "price":2199
 
 },
@@ -71,7 +71,7 @@
 "category":"music",
 "brand":"Martin",
 "model":"FE-B098",
-"imageUrl":"https://m.media-amazon.com/images/I/51SP8+COmNL._AC_SX679_.jpg",
+"imageUrl":"https://images.reverb.com/image/upload/s--LctBWzSJ--/f_auto,t_supersize/v1529425981/i3ix7cm5f5nmhv35knib.png",
 "price":299
 
 },

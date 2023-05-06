@@ -1,5 +1,5 @@
 <template>
-    <h1>Instruments Container</h1>
+    <br/><br/><br/>
     <div id="inst-outer-cont" >
         <div v-for="instrument in instruments" :key="instrument.id">
             <InstrumentComp :instrument="instrument"/>
@@ -44,5 +44,13 @@ export default{
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+    color: black;
 }
+
+
+#inst-outer-cont{
+    background-color:#fff;
+}
+
+
 </style>

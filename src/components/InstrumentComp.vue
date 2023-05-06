@@ -4,6 +4,7 @@
             <img :src="instrument.imageUrl" :alt="instrument.name" />
         </div>
         <div class="inst-desc">
+         
             <p v-text="instrument.name"></p>
             <p v-text="instrument.category"></p>
             <p v-text="instrument.model"></p>
@@ -27,9 +28,12 @@ export default{
 .inst-cont{
     display: flex;
     flex-direction: row;
-    margin: 10px 0;
+    margin: 10px 0px 40px 0px;
     max-width: 450px;
     max-height: 400px;
+    background-color:#fff;
+    
+    
 }
 .img-cont{
     width: 250px;
@@ -40,5 +44,10 @@ export default{
     height: 100%;
     object-fit: cover;
 
+}
+.inst-desc{
+    display: block;
+    margin-top: 50%;
+    background-color:#fff;
 }
 </style>

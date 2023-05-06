@@ -1,5 +1,9 @@
 <template>
-<h1>Welcome to Music World!</h1>
+    <div class="header">
+        <h1>Welcome to RHYTHMR</h1>
+<h2>A world full of music</h2>
+    </div>
+
 
 </template>
 
@@ -12,5 +16,11 @@ export default{
 </script>
 
 <style>
+    .header{
+        background-color: blanchedalmond;
+        margin-top: -60px;
+        font-size: larger;
+        font-family: 'Labrada', serif;
+    }
 
 </style>
